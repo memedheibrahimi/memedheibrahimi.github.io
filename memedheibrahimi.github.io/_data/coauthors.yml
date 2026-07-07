@@ -1,0 +1,5 @@
+# Map co-author surnames to first-name variants and a URL to auto-link them in the bibliography.
+# Example:
+# "tornatore":
+#   - firstname: ["Massimo", "M."]
+#     url: https://example.com
