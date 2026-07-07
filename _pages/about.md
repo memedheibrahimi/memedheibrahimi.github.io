@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor (RTDa) at <a href="https://www.deib.polimi.it/">Politecnico di Milano</a> · DEIB · BONSAI Lab
+subtitle: Non-Tenure Assistant Professor (RTDa) at <a href="https://www.deib.polimi.it/">Politecnico di Milano</a> · DEIB · BONSAI Lab
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor (RTDa) at [Politecnico di Milano](https://www.polimi.it/), within the Department of Electronics, Information and Bioengineering ([DEIB](https://www.deib.polimi.it/)) and the BONSAI Lab. My research focuses on **optical networking** — including hollow-core fiber (HCF) deployment, the design of next-generation and 6G optical networks, and LLM-based network automation — and I teach data center networking.
+I am a non-tenure Assistant Professor (RTDa) at [Politecnico di Milano](https://www.polimi.it/), within the Department of Electronics, Information and Bioengineering ([DEIB](https://www.deib.polimi.it/)) and the BONSAI Lab. My research focuses on **optical networking** — including hollow-core fiber (HCF) deployment, the design of next-generation and 6G optical networks, and LLM-based network automation — and I teach data center networking.
 
 I received my (industrial) Ph.D. from Politecnico di Milano in 2022. My doctoral thesis was recognized among the **top-3 best Ph.D. theses in Telecommunications** at DEIB, Politecnico di Milano.
 
