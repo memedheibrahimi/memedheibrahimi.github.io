@@ -6,7 +6,7 @@ subtitle: Non-Tenure Assistant Professor (RTDa) at <a href="https://www.deib.pol
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: CVPM8865.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>DEIB — Politecnico di Milano</p>
